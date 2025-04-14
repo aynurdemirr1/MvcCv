@@ -24,6 +24,7 @@ C#, ASP.NET MVC, HTML, CSS, JavaScript, MSSQL, Entity Framework (DbFirst)
 
 🔐 Login Paneli:
 Yetkilendirilmiş kullanıcılar giriş yaptıktan sonra admin paneline ulaşabiliyor ve içerik yönetimini gerçekleştirebiliyor.
+
 ![Ekran Görüntüsü (9)](https://github.com/user-attachments/assets/71030020-3532-4afb-9592-34d0f7c675a3)
 ![Ekran Görüntüsü (10)](https://github.com/user-attachments/assets/c7c72aa4-c841-4b45-8f2a-399595167677)
 ![Ekran Görüntüsü (11)](https://github.com/user-attachments/assets/3958fdfe-887f-464d-91d7-c56d8393fb36)
